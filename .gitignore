@@ -1,0 +1,9 @@
+/bin
+/obj
+*.mm
+*.uxf
+*.cbp
+*.layout
+*.depend
+*.pup
+*.xml
